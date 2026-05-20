@@ -30,7 +30,7 @@
    
    ---
    
-  [ ] ## 🔄 Task 2: Clone, Rename, and Re-Publish
+  ## 🔄 Task 2: Clone, Rename, and Re-Publish
    
   [ ] 1.  **Clone** this repository to your computer:
        `https://github.com/Lexicon-Smaland/Hello-World.git`
@@ -40,7 +40,7 @@
    
    ---
    
-  [ ] ## 🚀 Task 3: Advanced Challenges (Optional)
+  ## 🚀 Task 3: Advanced Challenges (Optional)
    
   [ ] *   **🌿 Branching and Merging:** Create a new branch, make changes, commit, and merge it back into the `main` branch.
   [ ] *   **🤝 Collaborating with Pull Requests:** Fork a classmate’s repository, make an improvement, and open a Pull Request (PR) to suggest your changes.
