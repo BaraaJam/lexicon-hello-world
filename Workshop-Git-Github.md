@@ -28,7 +28,7 @@
   [x] *   Create a `.gitignore` file.
   [ ] *   Configure it to exclude unnecessary or sensitive files from being tracked.
    
-   ---
+  ---
    
   ## 🔄 Task 2: Clone, Rename, and Re-Publish
    
@@ -38,10 +38,10 @@
   [ ] 3.  Make a small edit to any file.
   [ ] 4.  **Commit and push** the updated version to your own GitHub repository.
    
-   ---
+  ---
    
   ## 🚀 Task 3: Advanced Challenges (Optional)
-   
+  
   [ ] *   **🌿 Branching and Merging:** Create a new branch, make changes, commit, and merge it back into the `main` branch.
   [ ] *   **🤝 Collaborating with Pull Requests:** Fork a classmate’s repository, make an improvement, and open a Pull Request (PR) to suggest your changes.
   [ ] *   **⏮️ Revert and Reset:** Experiment with reverting or resetting commits to undo or move between versions.
